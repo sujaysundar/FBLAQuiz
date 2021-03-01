@@ -1,0 +1,7 @@
+Create a folder "dist" under say, C:\FBLAState2021. Generate the exe by running the following command in the cmd window (after navigating to the folder above “fblaquiz” say, FBLAState2021):
+
+pyinstaller -F -noconsole fblaquiz/fblaquiz.py
+
+Navigate to the “dist” folder and double click on oconsole.exe.
+
+Note: The exe has not been uploaded here in github due to file size limitations of github upload (25 MB). However, the oconsole.exe has been published to github as a release.
