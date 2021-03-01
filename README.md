@@ -201,4 +201,4 @@ You can contact me at sujay.sundar@jerichoapps.org
 
 **License:**
 
-This project uses the following license: https://github.com/sujaysundar/NYS-FBLA-FBLAQuiz/blob/master/LICENSE
+This project uses the following license: https://github.com/sujaysundar/FBLAQuiz/blob/main/LICENSE
