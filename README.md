@@ -83,6 +83,8 @@ To enable an iterative/agile mode of development, the requirements were document
 
 This application follows a standard 3-tier architecture where the front-end GUI is developed in Python/Tkinter, middle layer processing is via application logic written in Python and backend database is MySQL server.
 
+<img src="/img/Architecture.jpeg" alt="Architecture"/>
+
 **Few Considerations:**
 
 1) ADA compliant - This application tries to follow the spirit of the Americans with Disabilities Act (ADA) Standards for Accessible Design. In particular, the colors  and font sizes chosen enable differently abled people to also use the application.
