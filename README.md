@@ -77,6 +77,7 @@ To enable an iterative/agile mode of development, the requirements were document
 12) As a user, I want to be able to view help content in a separate window, so that I can use it as a resource in case I need help using the application.
 13) As a user, I want to be able to view information about the desktop application, so that I know the version of the application.
 14) As a user, I want to cleanly exit the application.
+15) As an application/system, I want appropriate data validation to be performed, mandatory fields to be completed and certain special characters to be filtered.
 
 **Design/Architecture:**
 
