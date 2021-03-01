@@ -112,7 +112,7 @@ python fblaquiz.py
 2) To launch the application using an exe - Create a folder "dist" under say, C:\FBLAState2021. Generate the exe by running the following command in the cmd window (after navigating to the folder above “fblaquiz” say, FBLAState2021):
 pyinstaller -F -noconsole fblaquiz/fblaquiz.py
 Navigate to the “dist” folder and double click on oconsole.exe
-Note: The exe has not been provided here in github due to file size limitations of github upload (25 MB).
+Note: The exe has not been uploaded here in github due to file size limitations of github upload (25 MB). However, the exe has been published to github as a release.
 
 **Please review the below detailed  instructions on navigating through the FBLA Quiz application.**
 
